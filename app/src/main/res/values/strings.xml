@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyRecycleView</string>
+    <string name="headerview">headerview</string>
+</resources>
